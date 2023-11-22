@@ -38,4 +38,4 @@ for subnet, hosts in subnet_hosts.items():
     print(f"{subnet} hosts:")
     print(f"Всего хостов {len(hosts)}: {hosts}")
     print()  # Добавляем пустую строку для разделения подсетей
->>>>>>> fdba5ee (Initial commit)
+
