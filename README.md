@@ -51,7 +51,7 @@ Contributions to this project are welcome. To contribute:
 When adding new functions, please update the README accordingly with a new section under 'Features'.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 - Special thanks to all contributors who have helped to expand this toolkit.
