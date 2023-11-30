@@ -2,7 +2,7 @@ from tools.subnet_splitter import calculate_subnets, calculate_subnets_by_hosts
 
 if __name__ == '__main__':
     while True:
-        print("1. subnet_splitters\n2. another tools")
+        print("1. Calculate subnets by number of subnets\n2. Calculate subnets by number of hosts")
         choose_tool = input("Choose tool: ")
         if choose_tool == "1":
             network = input("Input network such as '192.168.1.0/24: ")
