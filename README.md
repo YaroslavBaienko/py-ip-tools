@@ -35,13 +35,6 @@ for subnet in subnets:
 # Calculate subnets based on the number of hosts
 subnet_info = calculate_subnets_by_hosts("192.168.1.0/24", 50)
 print(subnet_info)
-GPT
-Описание Репозитория (Repository Description)
-
-"Python Network Utility Tools: A comprehensive suite of Python scripts designed for network engineers to automate and simplify subnet calculations, IP address management, and network analysis."
-README for GitHub
-
-markdown
 
 # Python Network Utility Tools
 
